@@ -1,7 +1,17 @@
 libecw - ECW (SDK 3.x)
 ======
      
-## Primeiro remova o gdal se já estiver instalado
+## Pré instalação
+
+```bash
+sudo apt install build-essential
+```
+
+```bash
+sudo apt install libpng-dev unzip
+```
+     
+## Remova o gdal se já estiver instalado
 
 ```bash
 sudo apt remove gdal-bin gdal-data libgdal20
