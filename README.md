@@ -2,11 +2,12 @@ libecw
 ======
      
 ## Primeiro remova o gdal se já estiver instalado
+
+```bash
 sudo apt remove gdal-bin gdal-data libgdal20
 sudo apt autoremove
 sudo apt install libpng-dev unzip
-
-
+```
 
 ## Faça o download do código ou clone do repositório
 
