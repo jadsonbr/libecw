@@ -1,4 +1,4 @@
-libecw
+libecw - ECW (SDK 3.x)
 ======
      
 ## Primeiro remova o gdal se já estiver instalado
