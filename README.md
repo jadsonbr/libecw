@@ -56,7 +56,7 @@ cd gdal-2.3.1
 - Configure o GDAL
 
 ```bash
-./configure --with-ecw=/usr
+sudo ./configure --with-ecw=/usr
 ```
 
 - Rodar `make` e `make install`
