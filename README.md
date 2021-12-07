@@ -60,7 +60,7 @@ wget http://download.osgeo.org/gdal/2.3.1/gdal-2.3.1.tar.gz
 - Descompacte o arquivo baixado
 
 ```bash
-unzip gdal-2.3.1.zip
+tar -xvzf gdal-2.3.1.zip
 cd gdal-2.3.1
 ```
 
